@@ -12,7 +12,12 @@ RF4: Quitar prendas del carrito.
 RF5:Mostrar el precio total del carrito.
 
 # requerimiento no funcionales 
-Adaptabilidad: La tienda se puede usar en celular y computadora.
-Rendimiento: La página se actualiza rápido sin recargar.
-Persistencia: El carrito se guarda aunque se cierre la página.
-Accesibilidad: Los botones y textos son fáciles de entender.
+ La tienda se puede usar en celular y computadora.
+ La página se actualiza rápido sin recargar.
+ El carrito se guarda aunque se cierre la página
+ Los botones y textos son fáciles de entender.
+
+
+ ![ropoa](https://github.com/user-attachments/assets/78ddfb8b-a287-4a2c-a3aa-fcf1dd1f39ae)
+
+
